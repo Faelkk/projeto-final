@@ -4,7 +4,6 @@
 @import "./utilidades/componentes.css";
 @import "./utilidades/tipografia.css";
 @import "./utilidades/cores.css";
-@import "./bicicletas/bicicletas-lista.css";
 
 body {
   margin: 0;
