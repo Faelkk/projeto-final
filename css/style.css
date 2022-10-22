@@ -4,6 +4,13 @@
 @import "./utilidades/componentes.css";
 @import "./utilidades/tipografia.css";
 @import "./utilidades/cores.css";
+@import "./global/tecnologia.css";
+@import "./global/parceiro.css";
+@import "./global/depoimento.css";
+@import "./global/seguros.css";
+@import "./global/footer.css";
+@import "./global/termos.css";
+@import "/bicicletas/bicletas.css";
 
 body {
   margin: 0;

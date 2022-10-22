@@ -12,15 +12,12 @@
 
   overflow-x: auto;
 }
-.bicleta-lista li {
+.bicicleta-lista1 li {
   min-width: 280px;
+  flex: 1;
 }
 .bicicleta-lista h2 {
   margin-bottom: 40px;
-  width: 1200px;
-  padding-left: 20px;
-  padding-right: 20px;
-  box-sizing: border-box;
 }
 .bicicleta-lista a {
   display: block;

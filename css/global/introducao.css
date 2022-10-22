@@ -15,9 +15,16 @@
   grid-template-columns: 1fr 1fr;
   gap: 0 40px;
 }
+
 .introducao-conteudo {
   align-self: center;
   padding-bottom: 200px;
+}
+.introdução img {
+  height: 100%;
+  object-fit: cover;
+  border-radius: 4px;
+  width: 100%;
 }
 .introducao h1 {
   margin-bottom: 32px;
